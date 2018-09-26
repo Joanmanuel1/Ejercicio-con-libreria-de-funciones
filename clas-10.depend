@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1537925790 source:c:\users\katherine\documents\clas-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"utn.h"
+	"pantalla.h"
+
+1537732434 c:\users\katherine\documents\clas-10\utn.h
+
+1537922737 c:\users\katherine\documents\clas-10\pantalla.h
+
+1537925984 source:c:\users\katherine\documents\clas-10\pantalla.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pantalla.h"
+	"utn.h"
+
+1537926206 source:c:\users\katherine\documents\clas-10\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
